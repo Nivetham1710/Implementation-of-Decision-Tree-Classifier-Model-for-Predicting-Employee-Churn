@@ -56,14 +56,24 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 Data Head:
 ![GitHub Logo](./m5.png)
+
+
 Information:
 ![GitHub Logo](./m6.png)
+
+
 Null dataset:
 ![GitHub Logo](./m7.png)
+
+
 Value_counts():
 ![GitHub Logo](./m8.png)
+
+
 Data Head:
 ![GitHub Logo](./m9.png)
+
+
 Accuracy:
 ![GitHub Logo](./m10.png)
 
